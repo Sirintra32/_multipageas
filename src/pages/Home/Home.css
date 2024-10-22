@@ -1,0 +1,18 @@
+.home-container{
+    border: 1px solid ;
+    height: 600px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.profile{
+    display: flex;
+    flex-direction: column; /* จัดเรียงให้อยู่บนล่าง */
+    justify-content: center; /* จัดแนวตั้งกลาง */
+    align-items: center; /* จัดแนวนอนกลาง */
+   
+    
+    
+}

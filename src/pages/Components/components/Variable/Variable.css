@@ -1,0 +1,17 @@
+.counter-container{
+   border: 1px solid ;
+   border-radius: 0.5rem;
+   padding: 1rem;
+   background-color: rgb(242, 247, 174);
+   margin: 0 0 0.5rem 0;
+}
+.counter-title{
+    color: red;
+}
+
+.value{
+    font-size: x-large;
+    font-weight: bolder;
+    margin: 0 0.5rem;
+    
+}
